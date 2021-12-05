@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo",
+  "main": "todo.js",
+  "scripts": {
+    "test": "node todo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brkyozell/todo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "brkyozell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brkyozell/todo/issues"
+  },
+  "homepage": "https://github.com/brkyozell/todo#readme"
+}
